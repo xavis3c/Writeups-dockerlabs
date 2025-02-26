@@ -3,7 +3,11 @@
 # Writeup: Injection - Dockerlabs
 
 Hola, bienvenidos y bienvenidas. Vamos a resolver una máquina de la plataforma **Dockerlabs** llamada **"Injection"**.  
-A continuación, podrás ver paso a paso cómo se resuelve. ¡Que te diviertas! 🚀  
+A continuación, podrás ver paso a paso cómo se resuelve. ¡Que te diviertas!
+
+
+  ![Inicio](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/inicio.png)
+
 
 ---
 
@@ -42,7 +46,7 @@ Ahora sabemos que el **puerto 80 (HTTP)** y el **puerto 22 (SSH)** están abiert
 ## **Acceso a la Aplicación Web**
 Nos dirigimos a poner la IP en el navegador.
 
-
+![login](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/login.png)
 
 
 
@@ -58,7 +62,7 @@ Como la máquina nos habla de una **inyección** (como su propio nombre lo dice)
 **Explicación:**  
 Como `1=1` siempre es verdadero, la consulta devuelve todos los registros, permitiendo el acceso sin conocer la contraseña (ponemos cualquier contraseña).  
 
-¡Sorpresa! Hemos entrado.  
+**¡Sorpresa! Hemos entrado.** 
 
 ---
 
@@ -67,9 +71,14 @@ Sabemos que el **puerto 22 (SSH)** está abierto, así que vamos a intentar cone
 
 Ejecutamos el siguiente comando:  
 
-```bash
+```
 sudo ssh 172.17.0.2 -l dylan
 ```
+
+![ssh](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/ssh-entramos.png)
+
+
+
 
 **Explicación de los parámetros:**  
 - `sudo` → Ejecuta el comando con permisos de superusuario (root).  
@@ -93,6 +102,12 @@ Ejecutamos en la terminal:
 ```bash
 find / -perm -4000 -user root 2>/dev/null
 ```
+
+
+![escalada](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/escalada.png)
+
+
+
 
 **Explicación del comando:**  
 - `find /` → Busca archivos en todo el sistema (`/` es la raíz).  
@@ -120,5 +135,8 @@ Encontramos que podemos ejecutar:
 ```
 whoami
 ```
+
+![whoami](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/listo-somos-root.png)
+
 
 **Somos root. Máquina resuelta.**
