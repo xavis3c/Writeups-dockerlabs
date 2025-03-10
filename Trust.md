@@ -11,7 +11,7 @@ Hola, bienvenidos y bienvenidas. Vamos a resolver una máquina de la plataforma 
 Hacemos un ping a la máquina para comprobar la conexión:
 
 ```bash
-ping 172.18.0.2
+ping -c 1 172.18.0.2
 ```
 
 ---
