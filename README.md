@@ -27,5 +27,3 @@ El objetivo es **subir al menos una máquina por día** 🏴‍☠️. Puede que
 Si te sirve el contenido, **dale una ⭐ al repo y sígueme**. Siempre estoy aprendiendo algo nuevo y cualquier aporte, feedback o idea es bienvenido. ¡Nos vemos en la terminal compas! 
 
 ---
-
-¿Qué opinas? Le metí más detalles pero sin que se vea como un texto genérico de IA. Si quieres que suene más relajado o más técnico dime y lo ajustamos.
