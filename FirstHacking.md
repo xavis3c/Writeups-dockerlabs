@@ -1,5 +1,5 @@
 
-# Explotación de VSFTPD 2.3.4 con Metasploit | Maquina FirstHacking
+# Maquina FirstHacking | Explotación de VSFTPD 2.3.4 con Metasploit
 
 ## 🔎 Escaneo inicial con Nmap  
 Iniciamos con un escaneo para detectar puertos abiertos y versiones de servicios:
@@ -129,5 +129,9 @@ Listo, somos `root`
 ## Conclusión  
 Hemos explotado **vsftpd 2.3.4** y conseguido acceso **root** en la máquina.   
 
-⚠ **Este material es solo para aprendizaje y CTFs legales. No lo uses en sistemas sin autorización.** <br/>
-**Nos vemos en la proxima hackers**
+⚠ **Este material es solo para aprendizaje y CTFs legales. No lo uses en sistemas sin autorización.**
+---
+
+**En mi pagina web (Blog) subo las maquinas más a detalle, normalmento lo hago primero alla por quien guste puede checarlo de aquel lado tambien.** 
+
+https://elyoxsecurity.com/category/maquinas/
