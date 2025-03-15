@@ -1,6 +1,9 @@
 
 # Maquina FirstHacking | Explotación de VSFTPD 2.3.4 con Metasploit
 
+![Inicio](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/Screenshot%202025-03-14%20at%2015-50-58%20DockerLabs.png)
+
+
 ## 🔎 Escaneo inicial con Nmap  
 Iniciamos con un escaneo para detectar puertos abiertos y versiones de servicios:
 
