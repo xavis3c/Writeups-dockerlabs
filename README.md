@@ -28,6 +28,7 @@ El objetivo es **subir al menos una máquina por día** 🏴‍☠️. Puede que
 Si te sirve el contenido, **dale una ⭐ al repo y sígueme**. Siempre estoy aprendiendo algo nuevo y cualquier aporte, feedback o idea es bienvenido. ¡Nos vemos en la terminal compas! 
 
 ---
-**En mi pagina web subo las maquinas tambien, normalmento lo hago primero alla por quien guste puede checarlo de aquel lado tambien.** 
+**En mi pagina web (Blog) subo las maquinas más a detalle
+, normalmento lo hago primero alla por quien guste puede checarlo de aquel lado tambien.** 
 
 https://elyoxsecurity.com/category/maquinas/
