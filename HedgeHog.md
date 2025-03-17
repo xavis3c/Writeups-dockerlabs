@@ -1,6 +1,8 @@
 
 # HedgeHog
 
+![login](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/inicioHedHog.png)
+
 ### 1. Verificación de Conectividad
 Comenzamos con un **ping** para comprobar si la máquina objetivo está activa.
 
