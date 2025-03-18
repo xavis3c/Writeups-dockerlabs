@@ -2,7 +2,7 @@
 # Trust - Resolviendo la Máquina
 
 ## Introducción
-Hola, bienvenidos y bienvenidas. Vamos a resolver una máquina de la plataforma DockerLabs llamada **Trust**. A continuación, verás paso a paso cómo se resuelve. ¡Que te diviertas!
+Hola, bienvenidos y bienvenidas. Vamos a resolver una máquina de la plataforma DockerLabs llamada **Trust**. A continuación, verás paso a paso cómo se resuelve. ¡¡Que te diviertas!!
 
 ---
 
