@@ -88,6 +88,6 @@ Hemos logrado acceso explotando un SSH con credenciales débiles.
 - Usar autenticación con clave pública y deshabilitar el acceso por contraseña.
 - Restringir el acceso a SSH solo desde IPs autorizadas.
 - Implementar mecanismos de detección de intentos de fuerza bruta (fail2ban, SSHGuard).
-- Usar puertos no convencionales para SSH.
+- Usar puertos no convencionales para SSH(22).
 
 --- 
