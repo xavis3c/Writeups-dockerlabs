@@ -117,7 +117,7 @@ find / -perm -4000 -user root 2>/dev/null
 
 ### **Archivo interesante encontrado: `/usr/bin/env`**
 El binario **env** a veces permite ejecutar comandos como **root**.  
-Otros binarios sospechosos suelen ser: `find`, `bash`, `vim`, `less`, `awk`, etc.  
+Otros binarios sospechosos suelen ser: `find`, `bash`, `vim`, `less`, `awk`, etc..  
 
 ---
 
