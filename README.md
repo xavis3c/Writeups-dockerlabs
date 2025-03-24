@@ -15,7 +15,8 @@ Cada máquina tiene su propio writeup en formato **Markdown (.md)** con:
 🔹 **Resumen** de la máquina.  
 🔹 **Pasos detallados** de explotación y escalación de privilegios.  
 🔹 **Errores y aprendizajes** (porque siempre hay algo nuevo que mejorar).  
-🔹 **Comandos y herramientas** usados en el proceso.  
+🔹 **Comandos y herramientas** usados en el proceso. <br/>
+🔹 **Estructura/Repositorio** Sin carpeta son todas las "Muy facil"; carpeta a las que corresponden. 
 
 ### ¿Con qué frecuencia subo contenido?  
 El objetivo es **subir al menos una máquina por día** 🏴‍☠️. Puede que algunos días suba más, pero la idea es mantener un ritmo constante y documentar cada reto de forma clara y útil.  
