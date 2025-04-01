@@ -42,6 +42,9 @@ http://172.17.0.2/index.php?secret=/etc/passwd
 
 ¡Tenemos un LFI! Vemos los usuarios `luisillo` y `vaxei`.
 
+![LFI](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/LFI-Usuarios-Psycho.png)
+
+
 ## Explotando LFI para obtener SSH
 
 Buscamos claves privadas:
