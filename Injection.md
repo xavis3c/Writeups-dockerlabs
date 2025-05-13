@@ -6,9 +6,6 @@ Hola, bienvenidos y bienvenidas. Vamos a resolver una máquina de la plataforma 
 A continuación, podrás ver paso a paso cómo se resuelve. ¡Que te diviertas!
 
 
-  ![Inicio](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/inicio.png)
-
-
 ---
 
 ## **Ecaneo de Puertos con Nmap**
