@@ -1,3 +1,5 @@
+![inicio](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/brave_screenshot_dockerlabs.es.png)
+
 
 ##### Hacemos un ping a la maquina:
 
@@ -172,3 +174,4 @@ y listo ya quedo, puedo usar bien clear, ctrl + c y no se pierde conexión.
  y vaya sorpresa, logramos ser root.
 
 ---
+
