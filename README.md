@@ -32,4 +32,4 @@ Si te sirve el contenido, **dale una ⭐ al repo y sígueme**. Siempre estoy apr
 **En mi pagina web (Blog) subo las maquinas más a detalle
 , normalmento lo hago primero alla por quien guste puede checarlo de aquel lado tambien.** 
 
-https://elyoxsecurity.com/category/maquinas/
+https://xavis3c.pages.dev/blog
